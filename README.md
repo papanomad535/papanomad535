@@ -8,6 +8,7 @@ Or you could go directly to the site
 
 https://stakr.space/
 
+[![stakr GitHub stats](https://github-readme-stats.vercel.app/api?username=papanomad535)](https://github.com/papanomad535/github-readme-stats)
 
 Get in touch
 
@@ -16,6 +17,14 @@ mailto:stakr.space@gmail.com
 more information soon
 
 <!--
+
+Tools(badges/shields.io) bash, docker, compose, ansible, solidity, rust, python
+
+Blog posts workflows
+
+
+
+
 **papanomad535/papanomad535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
