@@ -11,9 +11,6 @@ https://stakr.space/
 [![stakr GitHub stats](https://github-readme-stats.vercel.app/api?username=papanomad535)](https://github.com/papanomad535/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papanomad535)](https://github.com/papanomad535/github-readme-stats)
-
-
 Get in touch
 
 mailto:stakr.space@gmail.com
@@ -26,7 +23,7 @@ Tools(badges/shields.io) bash, docker, compose, ansible, solidity, rust, python,
 
 Blog posts workflows
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papanomad535)](https://github.com/papanomad535/github-readme-stats)
 
 
 **papanomad535/papanomad535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
