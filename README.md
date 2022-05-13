@@ -9,6 +9,8 @@ Or you could go directly to the site
 https://stakr.space/
 
 [![stakr GitHub stats](https://github-readme-stats.vercel.app/api?username=papanomad535)](https://github.com/papanomad535/github-readme-stats)
+[![stakr Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=papanomad535)](https://github.com/papanomad535/github-readme-stats)
+
 
 Get in touch
 
