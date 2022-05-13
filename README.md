@@ -18,7 +18,7 @@ more information soon
 
 <!--
 
-Tools(badges/shields.io) bash, docker, compose, ansible, solidity, rust, python
+Tools(badges/shields.io) bash, docker, compose, ansible, solidity, rust, python, nodejs, golang
 
 Blog posts workflows
 
