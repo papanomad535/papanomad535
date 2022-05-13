@@ -21,7 +21,7 @@ more information soon
 
 Tools(badges/shields.io) bash, docker, compose, ansible, solidity, rust, python, nodejs, golang
 
-Blog posts workflows
+Blog posts workflows - recent https://github.com/papanomad535/blog
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papanomad535)](https://github.com/papanomad535/github-readme-stats)
 
